@@ -6,7 +6,7 @@
 
 <div> 
   <a href="https://github.com/ThalitaGusmao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalitaGusmao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalitaGusmao&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
 </div>
   
   <img align="center" alt="Thalita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
