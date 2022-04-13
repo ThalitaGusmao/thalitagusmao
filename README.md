@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Thalita Gusmão
 
-• ✨ Estudando Python
+• ✨ Estudando Python & Java
  
 
 
